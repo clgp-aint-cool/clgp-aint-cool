@@ -25,9 +25,9 @@ Languages: G
 Learning: everything i guess
 ```
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iluvmOne-Y&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iluvmOne-Y&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iluvmOne-Y&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=clgp-aint-cool&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=clgp-aint-cool&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=clgp-aint-cool&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 GOOD BYPE 
 
